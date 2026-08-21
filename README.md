@@ -9,8 +9,6 @@
 ---
 
 ### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghita-ghita-353bb3407)
 [![Gmail](https://img.shields.io/badge/GMAIL-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.gitobito95@gmail.com)
 
 <br/>
