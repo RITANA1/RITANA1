@@ -1,43 +1,55 @@
 <div align="center">
 
-# 🌸 Hi 👋 I'm Rita 🌸
+# Rita
+### Computer Vision & AI Engineer
 
-**Computer Vision & AI Engineer**
+Building intelligent systems that see, learn, and ship to production.
 
-*Passionate about Computer Vision, Web & App Development, and Machine Learning.*
+[![Gmail](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.gitobito95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
----
-
-### 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/GMAIL-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.gitobito95@gmail.com)
-
-<br/>
-
-### 💻 Tech Stack
-
-<!-- Square Icon Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FFD1DC?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-FFB6C1?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-FFB6C1?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<!-- Text Pills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/COMPUTER_VISION-FFB6C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WEB_&_APP_DEV-FFC0CB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FFD1DC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NUMPY-FFB6C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PANDAS-FFC0CB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-FFD1DC?style=for-the-badge" />
-</p>
+</div>
 
 <br/>
 
+## About
+
+I design and deploy computer vision and machine learning systems — from model training to real-world inference. Comfortable across the full stack: data pipeline, model, and the app or API that ships it.
+
+- 🔭 Currently building real-time object detection & tracking systems
+- 🧠 Focus areas: Computer Vision, Deep Learning, MLOps
+- 💻 Also build the web/mobile apps that put models in front of users
+- 🎯 Open to Computer Vision / ML Engineer roles
+
+<br/>
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,react,flutter,git,docker,linux,fastapi,numpy" />
+
+<br/>
+<br/>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](#)** | One-line result-oriented description — e.g. "Real-time multi-object tracker, 30 FPS on edge devices" | `YOLOv8` `OpenCV` `Python` |
+| **[Project Name](#)** | e.g. "Custom CNN for medical image classification, 96% accuracy" | `PyTorch` `NumPy` |
+| **[Project Name](#)** | e.g. "Full-stack app deploying CV model via REST API" | `FastAPI` `React` `Docker` |
+
+<br/>
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+<br/>
+
+<div align="center">
+
+**your.gitobito95@gmail.com**
 
 </div>
