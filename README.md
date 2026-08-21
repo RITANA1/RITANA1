@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi 👋 I'm Ritana 🌸
+# 🌸 Hi 👋 I'm [Your Name] 🌸
 
 **Computer Vision & AI Engineer**
 
@@ -10,9 +10,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FFD1DC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Gmail](https://img.shields.io/badge/GMAIL-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghita-ghita-353bb3407)
+[![Gmail](https://img.shields.io/badge/GMAIL-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.gitobito95@gmail.com)
 
 <br/>
 
@@ -27,6 +26,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-FFB6C1?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-FFC0CB?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -42,5 +42,8 @@
 
 <br/>
 
+### 📊 GitHub Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
 
 </div>
