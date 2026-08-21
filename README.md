@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">🎀 Ghita OUARZI</h1>
+<h3 align="center">Computer‑Vision Engineer in Progress 🤖 | AI Explorer | Software Engineer</h3>
 
-<!--
-**RITANA1/RITANA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square">
+</p>
 
-Here are some ideas to get you started:
+> 🇲🇦 Moroccan | 🇨🇳 Based in China
+> 🔍 Focus: Computer Vision • PyTorch • LLM • Flutter & Full‑stack development
+> 🎯 Actively seeking **internship & junior engineer roles / research collaboration**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+`Python` `PyTorch` `OpenCV` `Dart‑Flutter` `Django` `Git`
+
+### ✨ Featured Projects
+- **RiAtlas‑Task**｜Flutter mood‑task manager with cultural UI
+- Computer‑vision demo notebooks｜Image processing & classification
+- Short‑video AI tooling for Chinese‑learning content creation
+
+### 📬 Connect
+• LinkedIn: [Your‑Link](https://linkedin.com/in/xxx)
+• Email: your.email@example.com
+• YouTube: Learn Chinese with Rita
+
+<p align="center">
+<img width="340" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=rose_pine&hide_border=true">
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=rose_pine&hide_border=true&layout=compact">
+</p>
