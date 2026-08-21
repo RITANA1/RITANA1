@@ -1,28 +1,46 @@
-<h1 align="center">🎀 Ghita OUARZI</h1>
-<h3 align="center">Computer‑Vision Engineer in Progress 🤖 | AI Explorer | Software Engineer</h3>
+<div align="center">
 
+# 🌸 Hi 👋 I'm Ritana 🌸
+
+**Computer Vision & AI Engineer**
+
+*Passionate about Computer Vision, Web & App Development, and Machine Learning.*
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FFD1DC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Gmail](https://img.shields.io/badge/GMAIL-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+### 💻 Tech Stack
+
+<!-- Square Icon Badges -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square">
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FFD1DC?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-FFB6C1?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-FFB6C1?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> 🇲🇦 Moroccan | 🇨🇳 Based in China
-> 🔍 Focus: Computer Vision • PyTorch • LLM • Flutter & Full‑stack development
-> 🎯 Actively seeking **internship & junior engineer roles / research collaboration**
-
-### 🛠 Tech Stack
-`Python` `PyTorch` `OpenCV` `Dart‑Flutter` `Django` `Git`
-
-### ✨ Featured Projects
-- **RiAtlas‑Task**｜Flutter mood‑task manager with cultural UI
-- Computer‑vision demo notebooks｜Image processing & classification
-- Short‑video AI tooling for Chinese‑learning content creation
-
-### 📬 Connect
-• LinkedIn: [Your‑Link](https://linkedin.com/in/xxx)
-• Email: your.email@example.com
-• YouTube: Learn Chinese with Rita
-
+<!-- Text Pills -->
 <p align="center">
-<img width="340" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=rose_pine&hide_border=true">
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=rose_pine&hide_border=true&layout=compact">
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WEB_&_APP_DEV-FFC0CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-FFD1DC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NUMPY-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PANDAS-FFC0CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-FFD1DC?style=for-the-badge" />
 </p>
+
+<br/>
+
+
+</div>
