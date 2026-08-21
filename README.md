@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🌸 Hi 👋 I'm RITANA 🌸
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:FFC0CB&height=200&section=header&text=Hi%2C%20I'm%20RITANA%20🌸&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20AI%20Engineer&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-**Computer Vision & AI Engineer**
-
-*Passionate about Computer Vision, Web & App Development, and Machine Learning.*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Passionate+about+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Web+%26+App+Development+%F0%9F%92%BB;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
@@ -31,5 +29,15 @@ I design and deploy computer vision and machine learning systems — from model 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,pytorch,tensorflow,opencv,django,react,flutter,sql,postgres,git,fastapi,numpy&perline=14" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FFB6C1,100:FFD1DC&height=120&section=footer" width="100%"/>
+
+**Thanks for stopping by — let's build something amazing together 🌸**
 
 </div>
