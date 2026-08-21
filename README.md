@@ -30,6 +30,6 @@ I design and deploy computer vision and machine learning systems — from model 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,pytorch,tensorflow,opencv,django,react,flutter,sql,postgres,git,fastapi,numpy&perline=16" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,pytorch,tensorflow,opencv,django,react,flutter,sql,postgres,git,fastapi,numpy&perline=14" />
 
 </div>
